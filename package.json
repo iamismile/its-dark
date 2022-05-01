@@ -1,0 +1,34 @@
+{
+    "name": "its-dark",
+    "displayName": "Its Dark",
+    "description": "🎨 An elegant dark theme.",
+    "version": "8.0.0",
+    "publisher": "iamismiledev",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamismile/its-dark"
+    },
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Its Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Its Dark-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "black",
+        "dark theme",
+        "black theme"
+    ]
+}
