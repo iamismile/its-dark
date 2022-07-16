@@ -2,7 +2,7 @@
 
 <p align="center">🎨 An elegant dark theme.</p>
 
-<p align="center">A personalized VS Code theme that I use in all my developments. Its based on the <a href="https://marketplace.visualstudio.com/items?itemName=nur.just-black">Just Black</a> theme.</p>
+<p align="center">A personalized VS Code theme that I use in all my developments.
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-bottom: 1rem;">
   <img style="margin-right: 1rem;" alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/iamismiledev.its-dark"/>
