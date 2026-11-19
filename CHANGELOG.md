@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [11.0.0] - 2026-11-19
+
 ### Added
 - Restored the authentic v9.0.0 palette as the design identity: `#141518` canvas, teal `#80cbc4` and cyan `#00ffff` accents, `#ffff7e` activity bar, `#c692fa` breadcrumb, and the original syntax spectrum
 - Rebuilt Its Light from the same v9 accent, semantic, and syntax roles with contrast-targeted light variants
@@ -57,7 +59,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial public release of Its Dark theme
 
-[Unreleased]: https://github.com/iamismile/its-dark/compare/v10.0.1...HEAD
+[Unreleased]: https://github.com/iamismile/its-dark/compare/v11.0.0...HEAD
+[11.0.0]: https://github.com/iamismile/its-dark/compare/v10.0.1...v11.0.0
 [10.0.1]: https://github.com/iamismile/its-dark/compare/v10.0.0...v10.0.1
 [10.0.0]: https://github.com/iamismile/its-dark/compare/v9.0.1...v10.0.0
 [9.0.1]: https://github.com/iamismile/its-dark/compare/v9.0.0...v9.0.1
