@@ -14,13 +14,13 @@
 
 <div align="center" style="margin: 2rem 0;">
   <a href="https://marketplace.visualstudio.com/items?itemName=iamismiledev.its-dark">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/iamismiledev.its-dark?label=Version&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Version">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/iamismiledev.its-dark?label=Version&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Visual Studio Marketplace Version" title="Current version on the Visual Studio Marketplace">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=iamismiledev.its-dark">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/iamismiledev.its-dark?label=Installs&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Installs">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/iamismiledev.its-dark?label=Installs&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Visual Studio Marketplace Installs" title="Total installs on the Visual Studio Marketplace">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=iamismiledev.its-dark">
-    <img src="https://img.shields.io/visual-studio-marketplace/r/iamismiledev.its-dark?label=Rating&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Rating">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/iamismiledev.its-dark?label=Rating&style=for-the-badge&logo=visual-studio-code&color=141518" alt="Visual Studio Marketplace Rating" title="User rating on the Visual Studio Marketplace">
   </a>
 </div>
 
