@@ -2,7 +2,7 @@
     "name": "its-dark",
     "displayName": "Its Dark",
     "description": "A refined, professional dark theme for Visual Studio Code. A cohesive slate-and-navy palette with a single signature accent—built for clarity, focus, and polished presentation.",
-    "version": "10.0.0",
+    "version": "10.0.1",
     "publisher": "iamismiledev",
     "icon": "logo.png",
     "repository": {
